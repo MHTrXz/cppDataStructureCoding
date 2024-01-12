@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad H. Hashemi</h1>
-<h3 align="center">A web developer interested in algorithms, AI and artificial intelligence</h3>
+<h3 align="center">A web developer interested in algorithms and artificial intelligence</h3>
 
 - 🔭 I’m currently working on **Web Developing**
 
